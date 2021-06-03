@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the rock salt, as it now stands burthen'd with a higher duty than the other forms of English made salt.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18711</idno><idno type="EEBO-CITATION">99895017</idno>
+  <idno type="VID">186305</idno>
+  <idno type="EEBO-PROQUEST">2240928737</idno>
+  
+            <idno type="STC">Wing C1160</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[105]</idno>
+            <idno type="STC">ESTC T81588</idno>
+            <idno type="PROQUEST">ocm99895017</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895017e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18711)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186305)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[102])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the rock salt, as it now stands burthen'd with a higher duty than the other forms of English made salt.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>With a docket title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Rock salt --  Taxation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Salt industry and trade --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186305:1"/>
+            <head>The CASE of the ROCK SALT, AS It now stands Burthen'd with a Higher Duty than the other sorts of <hi>English</hi> made SALT.</head>
+            <p>'TIS Certain, That the <hi>Rock Salt</hi> ought to be lookt upon as a Treasure and a Blessing to this Kingdom, in its being so happily discovered in a Time of War, (whereby the Price of that Commodity hath been moderated, which in former Wars was wont to be Excessive) and in such Quantities, as that we have now no more need of buying Salt from Forreigners, but may in some time be in a Condition to Transport it to Forreign Parts. And 'tis evident, that the Persons concern'd in the other Salt works, do use their utmost Endeavours to bring this under all the Discouragements and Difficulties they can, to no other Intent, but that either by quite ruining the <hi>Rock Salt,</hi> or at least making it dearer, they may keep up their own to higher Prices upon the People; which is a Design that can never be intentionally Countenanc'd by an <hi>English</hi> Parliament: Besides that, it's plain that the Revenue will be lessen'd, and the Funds prejudic'd, by the Decrease of the Expence, which Necessarily follows the Dearness of Commodities, by every ones spating the Use, and saving the Waste of what is neglected when they are cheaper.</p>
+            <p>There are two Reasons pretended by the Owners of the Brine-pits, why the <hi>Rock Salt</hi> should be discouraged, or at least made to pay a higher Duty than the other: The <hi>First</hi> is, Least the Rock being workt out in time, the Brine pits should be spoyl'd, by their Water's loosing it's strength. The <hi>Second</hi> is, That the <hi>Rock Salt</hi> may afford to pay a high<g ref="char:EOLhyphen"/>er Duty, because they have their Coals much cheaper.</p>
+            <p>These are sufficiently answered, if there were no more to be said, than that all Govern<g ref="char:EOLhyphen"/>ments permit their Subjects to enjoy the utmost benefit of what Nature gives them; and there was never any such thing heard, as that a Man should be hindered by a Law, from making his best Advantage of a Rich Lead Mine newly discovered, for the sake of his Neighbour, who had an ancienter one, which was much more Chargeable to Work, and yet yielded less Oar.</p>
+            <p>Yet there is no room for even these weak Objections; because, <hi>First,</hi> There's more probability of working out the Coal-Mines at <hi>New Castle,</hi> than of these Salt Mines; in some of which, the Veins of the Mineral Salt are twenty five yards thick: But then if it were possible to work them out, the Brine-pits would not be prejudic't thereby, if as is generally believ'd, the Saline Petrefaction is caused by a Salt Water, and not the Brine-Springs impregnated by the Mineral Salt. For the <hi>Second,</hi> 'Tis true, that the Workers of the <hi>Rock Salt</hi> have their Coals cheaper in some Places; but then the digg<g ref="char:EOLhyphen"/>ing, landing, and bringing the <hi>Rock Salt</hi> to the place where it must be melted into Brine, costs manifold more than it doth the Brine-Workers, for they have no more to do than to pump it out of the Brine-Pit into the Pan for boyling, and they are there<g ref="char:EOLhyphen"/>by sufficiently over recompenc't for the difference of the price of Coals.</p>
+            <p>If the Refining of <hi>Rock Salt</hi> shall be wholly discouraged, the Owners of the Salt Mines will be greatly injur'd in their Properties; divers Persons that have been engag'd in that Business will be wrong'd, not only in being hindered from making a reasonable Improve<g ref="char:EOLhyphen"/>ment by, but even quite losing great Summs of Money, which they have laid out upon an Undertaking, not only Lawful, but also of Publick Conveniency to the Kingdom; many hundreds of Work-men will be thrown out of their Work, and depriv'd of the means of maintaining their Families; Employment for many sail of Ships will be lost, and the Western Countries will be much incommoded, who have been for many Ages well furnisht with Salt from <hi>Bristol,</hi> and other Ports of the <hi>Seavern,</hi> where they formerly refin'd upon Forreign Salt, but that being now in Effect prohibited, they make all their Salt out of the <hi>Rock Salt,</hi> and their Trade hath been so much encreas'd, since they have been able to supply the Place of <hi>French</hi> Salt, that they have much encreas'd their Work<g ref="char:EOLhyphen"/>houses, and multitudes depend upon so considerable a Business; on whom 'twould be un<g ref="char:EOLhyphen"/>reasonable to put so great a hardship, as to deprive them of their way of Living at once.</p>
+            <p>
+               <hi>'Tis therefore Humbly Hop'd, that when the Honourable House of</hi> Commons, <hi>shall be rightly inform'd in this Matter, they will, according to their declared Intention in the first Salt Act, ascertain that all kinds of Salt whatsoever, made fit for use, shall pay alike Duty; and that the whole Duty, first secur'd at the Pits upon all the</hi> Rock Salt, <hi>shall be return'd when it hath paid the full Duty for all the Refin'd Salt that hath been produc'd from it.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:186305:2"/>
+            <p>The CASE Of the ROCK SALT.</p>
+            <pb facs="tcp:186305:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
